@@ -1,9 +1,10 @@
 <template>
   <div>
     <!-- 测试文件 -->
-    <test-v1></test-v1>
-    <test-v2></test-v2>
+    <!-- <test-v1></test-v1>
+    <test-v2></test-v2> -->
 
+    <header-my></header-my>
   </div>
 </template>
 
